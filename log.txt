@@ -1,0 +1,4 @@
+2024-03-25 23:39:19.372075 division by zero
+2024-03-25 23:39:33.598377 division by zero
+2024-03-25 23:40:03.396751 unsupported operand type(s) for /: 'int' and 'str'
+2024-03-25 23:40:41.121551 unsupported operand type(s) for /: 'int' and 'str'

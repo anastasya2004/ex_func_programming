@@ -26,7 +26,7 @@ print(get_dict())
 
 @to_format('xml')
 def get_tuple():
-    return (10, 5), (2, 9), (0, 4)
+    return 'python code'
 
 print(get_tuple()) 
 
